@@ -5,7 +5,6 @@ void setup()
   size(1280, 800);
   noStroke();
   ellipseMode(CENTER);
-
   //FOR FAST VERSION, USE 30 FRAMERATE
   // frameRate(30);
   frameRate(1);
